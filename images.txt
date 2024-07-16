@@ -1,2 +1,2 @@
 nginx:stable-perl
-#nvidia/cuda:11.6.1-devel-ubuntu20.04
+nvidia/cuda:11.6.1-devel-ubuntu20.04
