@@ -1,3 +1,4 @@
 nginx:stable-perl
 nvidia/cuda:11.6.1-devel-ubuntu20.04
 eipwork/kuboard:v3.5.2.7-amd64
+bladex/alpine-java:openjdk17_cn_slim
